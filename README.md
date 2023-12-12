@@ -1,5 +1,4 @@
 ![Header](./header.png)
-<h1 align="center">Hi 👋, I'm Rushendra Nuthi</h1>
 <h3 align="center">Student Developer from INDIA</h3>
 
 - 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/RushendraNuthi?tab=repositories)
