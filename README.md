@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](/header.png)
 <h3 align="center">Student Developer from INDIA</h3>
 
 - 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/RushendraNuthi?tab=repositories)
