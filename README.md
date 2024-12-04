@@ -1,17 +1,32 @@
 ![Header(Hi, Iam Rushendra Nuthi) ](/header.jpg)
-<h3 align="center">Student Developer from INDIA</h3>
+<h3 align="center">Student Developer from INDIA</h3
 
-- 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/RushendraNuthi?tab=repositories)
+### 💻 Technical Skills
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=sql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  ![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)
 
-- 📫 How to reach me **rushendra.nuthi123@gmail.com**
+- **Cybersecurity Tools**: ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  ![Nmap](https://img.shields.io/badge/Nmap-FF6600?style=flat&logo=nmap&logoColor=white)  ![Nessus](https://img.shields.io/badge/Nessus-000000?style=flat&logo=nessus&logoColor=white)  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-6600CC?style=flat&logo=burp-suite&logoColor=white)  ![Metasploit](https://img.shields.io/badge/Metasploit-9E1D20?style=flat&logo=metasploit&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rushendranuthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushendranuthi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rushendranuthi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushendranuthi13" height="30" width="40" /></a>
-<a href="https://fb.com/rushendranuthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rushendranuthi" height="30" width="40" /></a>
-<a href="https://instagram.com/rushendra_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rushendra_13" height="30" width="40" /></a>
-</p>
+- **Technologies & Frameworks**: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+- **Developer Tools**: ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6E4E37?style=flat&logo=github&logoColor=white)
+
+---
+
+### 🛠️ Projects
+- **[Custom Netcat Module](https://github.com/RushendraNuthi/Custom_Netcat_Module)**  
+  Python tool for file transfers, command execution, and shell interactions.
+
+- **[Clickjacking Vulnerability Scanner](https://github.com/RushendraNuthi/Clickjacking_Scanner)**  
+  Python tool to detect clickjacking vulnerabilities by analyzing `X-Frame-Options` headers.
+
+- **[Personal Portfolio](https://github.com/RushendraNuthi/portfolio)**  
+  Portfolio website built using HTML, CSS, and JavaScript.
+
+---
+
+### 🌐 Let's Connect!
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)**[Rushendra Nuthi](https://linkedin.com/in/RushendraNuthi13)**  
+-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  **[Rushendra Nuthi](https://github.com/RushendraNuthi)**
+-  ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) [rushendra.nuthi123@gmail.com](mailto:rushendra.nuthi123@gmail.com)
+
+---
