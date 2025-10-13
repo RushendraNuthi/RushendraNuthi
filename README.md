@@ -5,7 +5,7 @@
 
 ---
 
-### **Section 1: About Me**
+### **About Me**
 <p align="center">
   <img src="./profile.svg" alt="Profile pic animation" width="150" height="150" />
 </p>
@@ -14,7 +14,7 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
 
 ---
 
-### **Section 2: Core Competencies & Skills**
+### **Core Competencies & Skills**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="150" height="150" />
 </p>
@@ -57,7 +57,7 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
 
 ---
 
-### **Section 3: Projects**
+### **Projects**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="150" height="150" />
 </p>
@@ -167,22 +167,7 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
 
 ---
 
-### **Section 4: GitHub Stats**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="150" height="150" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushendraNuthi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Rushendra's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushendraNuthi&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=RushendraNuthi&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-### **Section 5: Contact**
+### **Get in Touch**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png" alt="Call Me Hand Light Skin Tone" width="150" height="150" />
 </p>
@@ -198,3 +183,14 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </p>
+
+---
+
+### **GitHub Stats**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="150" height="150" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushendraNuthi&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
