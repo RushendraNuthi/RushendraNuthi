@@ -63,6 +63,25 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
 </p>
 
 <details open>
+<summary><strong>Portfolio Website: (Personal Showcase Platform) <a href="https://rushendranuthi.netlify.app"><strong>[View Live]</strong></a></strong></summary>
+<br>
+<ul>
+    <li><strong>Description:</strong> A responsive, modern personal portfolio built to showcase projects, skills, blog entries, and contact information in a polished web interface.</li>
+    <li><strong>Key Contributions & Features:</strong>
+        <ul>
+            <li>Developed a single-page / multi-section front end using HTML5, CSS3, JavaScript (ES6+), with responsive layouts (Flexbox / CSS Grid) to ensure mobile / desktop compatibility.</li>
+            <li>Implemented theme toggling (dark / light mode) and smooth scroll animations to enhance user experience.</li>
+            <li>Created a filterable project gallery with links to live demos and GitHub repositories.</li>
+            <li>Deployed the site on a hosting service (e.g. Netlify, GitHub Pages), with continuous integration / auto publishing from the Git repository.</li>
+            <li>Optimized for performance (minified assets, lazy loading of images) and SEO (meta tags, alt attributes).</li>
+            <li>Maintained the code via version control (Git), modular CSS / JavaScript structure, and detailed documentation (README, usage instructions).</li>
+        </ul>
+    </li>
+    <li><a href="https://github.com/RushendraNuthi/portfolio"><strong>Repo: Portfolio</strong></a></li>
+</ul>
+</details>
+
+<details open>
 <summary><strong>Cognito: Automated Threat Intelligence Platform</strong></summary>
 <br>
 <ul>
@@ -74,7 +93,7 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
             <li>Implemented solutions using <strong>Large Language Models (LLMs)</strong> and prompt engineering to automatically generate analysis modules and threat reports, boosting the development pace by <strong>40%</strong>.</li>
         </ul>
     </li>
-    <li><a href="https://github.com/RushendraNuthi/Cognito"><strong>Repo: [Cognito]</strong></a></li>
+    <li><a href="https://github.com/RushendraNuthi/Cognito"><strong>Repo: Cognito</strong></a></li>
 </ul>
 </details>
 
@@ -91,26 +110,7 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
             <li>Designed and established <strong>RESTful APIs</strong> to aggregate and integrate multi-source forensic data, including logs, network packets, memory dumps, and emails.</li>
         </ul>
     </li>
-    <li><a href="https://github.com/RushendraNuthi/AIDFAS"><strong>Repo: [AIDFAS]</strong></a></li>
-</ul>
-</details>
-
-<details open>
-<summary><strong>Portfolio Website: (Personal Showcase Platform)</strong></summary>
-<br>
-<ul>
-    <li><strong>Description:</strong> A responsive, modern personal portfolio built to showcase projects, skills, blog entries, and contact information in a polished web interface.</li>
-    <li><strong>Key Contributions & Features:</strong>
-        <ul>
-            <li>Developed a single-page / multi-section front end using HTML5, CSS3, JavaScript (ES6+), with responsive layouts (Flexbox / CSS Grid) to ensure mobile / desktop compatibility.</li>
-            <li>Implemented theme toggling (dark / light mode) and smooth scroll animations to enhance user experience.</li>
-            <li>Created a filterable project gallery with links to live demos and GitHub repositories.</li>
-            <li>Deployed the site on a hosting service (e.g. Netlify, GitHub Pages), with continuous integration / auto publishing from the Git repository.</li>
-            <li>Optimized for performance (minified assets, lazy loading of images) and SEO (meta tags, alt attributes).</li>
-            <li>Maintained the code via version control (Git), modular CSS / JavaScript structure, and detailed documentation (README, usage instructions).</li>
-        </ul>
-    </li>
-    <li><a href="https://github.com/RushendraNuthi/portfolio"><strong>Repo: [Portfolio]</strong></a></li>
+    <li><a href="https://github.com/RushendraNuthi/AIDFAS"><strong>Repo: AIDFAS</strong></a></li>
 </ul>
 </details>
 
@@ -127,7 +127,7 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
             <li>Formatted the extracted, decrypted data into a human-readable text file for straightforward analysis and reporting.</li>
         </ul>
     </li>
-    <li><a href="https://github.com/RushendraNuthi/Chrome_Cookies_Extractor"><strong>Repo: [Chrome Cookies Extractor]</strong></a></li>
+    <li><a href="https://github.com/RushendraNuthi/Chrome_Cookies_Extractor"><strong>Repo: Chrome Cookies Extractor</strong></a></li>
 </ul>
 </details>
 
@@ -144,7 +144,7 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
             <li>Designed with a simple and intuitive command-line interface for ease of use in automated scripts or manual testing sessions.</li>
         </ul>
     </li>
-    <li><a href="https://github.com/RushendraNuthi/Clickjacking_Scanner"><strong>Repo: [Clickjacking Scanner]</strong></a></li>
+    <li><a href="https://github.com/RushendraNuthi/Clickjacking_Scanner"><strong>Repo: Clickjacking Scanner</strong></a></li>
 </ul>
 </details>
 
@@ -161,7 +161,7 @@ As a passionate and detail-oriented Computer Science student, I am deeply invest
             <li>Designed the module to be easily extensible for custom networking tasks and security testing scenarios.</li>
         </ul>
     </li>
-    <li><a href="https://github.com/RushendraNuthi/Custom_Netcat_Module"><strong>Repo: [Custom Netcat Module]</strong></a></li>
+    <li><a href="https://github.com/RushendraNuthi/Custom_Netcat_Module"><strong>Repo: Custom Netcat Module</strong></a></li>
 </ul>
 </details>
 
