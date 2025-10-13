@@ -1,8 +1,7 @@
 <div align="center">
   <img src="./header.jpg" alt="Hero Image" width="100%"/>
-  <h1>Hi there, I'm Rushendra Nuthi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 </div>
-<h3 align="center">Student Developer from INDIA</h3>
+<h3 align="center">Student Developer from INDIA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
 ---
 
